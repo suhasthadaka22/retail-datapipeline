@@ -1,0 +1,3 @@
+﻿sale_id,transaction_ts,store_id,product_id,qty,price,total_amt,customer_id
+S003,2024-01-02T09:00:00,STR02,P300,3,99.00,297.00,CUST03
+S004,2024-01-02T09:30:00,STR02,P100,1,199.50,199.50,CUST01

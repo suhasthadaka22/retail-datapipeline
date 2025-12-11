@@ -1,0 +1,22 @@
+﻿[
+  {
+    "sale_id": "S001",
+    "transaction_ts": "2024-01-01T10:15:00",
+    "store_id": "STR01",
+    "product_id": "P100",
+    "qty": 2,
+    "price": 199.50,
+    "total_amt": 399.00,
+    "customer_id": "CUST01"
+  },
+  {
+    "sale_id": "S002",
+    "transaction_ts": "2024-01-01T11:20:00",
+    "store_id": "STR01",
+    "product_id": "P200",
+    "qty": 1,
+    "price": 149.00,
+    "total_amt": 149.00,
+    "customer_id": "CUST02"
+  }
+]
